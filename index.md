@@ -2,7 +2,7 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
+# Yuan Quan
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
@@ -11,67 +11,40 @@ Physicist, Mathematician, Cambridge professor.
 </div>
 
 
-## Currently
+## About me
 
-Standing on the shoulders of giants
+I've been working in IT industry for over 10 years, focusing on the lead-edge technology, and enjoying the facts it brings to me and the world.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Provide solid understanding of how to build scalable, accessible and secure applications
+- Create the non-functional requirements based on the business needs
+- Choose the needed technology stack based on the functional, non-functional requirements and based on other factors like client drivers, environment and feasibility
+- For system integration and platform implementations, perform the gap analysis between business requirements and the platform features and design the configuration, customizations, extensions, interfaces required to meet the requirements
+- Identify and design dependencies with other systems in the enterprise
+- Establish steps of doneness for various types of technical activities that are done during discovery, development, testing and maintenance phases of a project.
+- Drive setup of the different environment (development, test, stage, production, etc.)
+- Responsible for ensuring that technical solution meets performance, reliability and security requirements
+- Troubleshoot complex technical issues or performance on projects
+- Works with the Project Manager/Scrum Master to create the estimate and plans for the projects and decompose them among the various tracks
+- Identify, manage, quantify and escalate risks to various internal and external stakeholders
+- Partners with Project Manager/Scrum Master and clients to establish Scope Management Process
+- Responsible for consistency, high quality and adherence to applicable standards in solution delivery
+- Identify key technical decisions and considerations in design and implement phase
+- Raise and drive resolution for all technical design and implementation issues
+- Lead the team to continuously absorb new technology / knowledge
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`1999 - 2003`
+__Wuhan University__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Bachelor Degree of Computer Science
 
 
+## Experience
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
 
 `1600`
 __Royal Mint__, London
@@ -83,9 +56,8 @@ __Royal Mint__, London
 __Lucasian professor of Mathematics__, Cambridge University
 
 
-
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: November 2021 -->
 
 
