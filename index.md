@@ -1,8 +1,4 @@
----
-layout: cv
-title: Yuan Quan's CV
----
-# Yuan Quan
+# Yuan Quan's CV
 
 <div id="webaddress">
 <a href="yquan@msn.com"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="envelope" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="12" height="12" class="svg-inline--fa fa-envelope fa-w-16 fa-2x"><path fill="currentColor" d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z" class=""></path></svg> yquan@msn.com</a>
@@ -41,7 +37,7 @@ __Wuhan University__ _(1999 ~ 2003)_ - Bachelor Degree of Computer Science
 
 ## Experience
 
-__Publicis Sapient__, Technical Leader _(Feb 2020 ~ Present)_
+__Publicis Sapient__, Technology Lead _(Feb 2020 ~ Present)_
 
 - Providing technical leadership and support to software development teams
 - Plan and design the structure of a technology solution
@@ -54,11 +50,14 @@ __Publicis Sapient__, Technical Leader _(Feb 2020 ~ Present)_
 - Integrate BI report with big data
 - Work with Business Analyst / Data Analyst for the evaluation/estimation
 - Cloud based Solution architecturing (Microsoft Azure China)
+- Architect and design the component model that is used to construct a Digital platform for both web and mobile using Adobe Experience Manager (AEM)
+- Incorporate functionality into single-page applications with microservices inside AEM
 
 
 __Vertical Web Solutions__, Technical Consultant _(Feb 2017 ~ Feb 2020)_
 
 - Technical consultant for various projects implementation and architecturing
+- Design and coordinate Wechat mini-program and API integration among various back-end supporting systems
 - Consulting with clients and other departments as required
 - Improving system efficiency by consulting with end-users and providing innovative solutions
 - Analyzing and improving the performance of web-based portals as well as backend systems
