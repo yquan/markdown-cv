@@ -1,13 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Yuan Quan's CV
 ---
 # Yuan Quan
-Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="yquan@msn.com">yquan@msn.com</a>
+| <a href="tel://186-2166-4656">186-2166-4656</a>
 </div>
 
 
@@ -44,7 +43,6 @@ __Wuhan University__
 
 
 ## Experience
-
 
 `1600`
 __Royal Mint__, London
